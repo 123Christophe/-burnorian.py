@@ -3,7 +3,7 @@
 **For humanity’s sake.**  
 Multi-planetary • Simulation mastery • Controlled time travel • **We become the UAP.**
 
-This is the complete Burnorian Solution in **one single file** — the full algorithm we built together.
+This is the complete Burnorian Solution in **one single file** — the full algorithm.
 
 ## Vision
 We refuse the single-planet norm.  
