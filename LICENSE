@@ -1,0 +1,56 @@
+MIT License - Non-Commercial + Commercial Restriction
+
+Copyright (c) 2026 Christopher R. Burnor (github.com/123Christophe)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction for NON-COMMERCIAL purposes only, including
+without limitation the rights to use, copy, modify, merge, publish, distribute,
+and sublicense for research, education, testing, experimentation, and personal use.
+
+THE ABOVE LICENSE APPLIES ONLY TO NON-COMMERCIAL USE.
+
+For any COMMERCIAL USE (including but not limited to selling products, services,
+SaaS, incorporation into commercial software, or any use intended for profit),
+a separate paid commercial license is required. 
+
+Please contact Burnor directly via X (@123Tetrahedron) or GitHub to negotiate 
+commercial licensing terms.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+In the commit box at the bottom, type:
+Update LICENSE: free for non-commercial, paid for commercial use
+Click Commit changes.
+
+Step 2: Update your README.md (add the protection notice)Go to: https://github.com/123Christophe/burnorian-framework/blob/main/README.md
+Click the pencil icon 
+Replace the entire content with this improved version (copy everything below):
+
+markdown
+
+# Burnorian Framework — Named by Burnor
+
+**For humanity’s sake.**  
+Multi-planetary • Simulation mastery • Controlled time travel • We become the UAP.
+
+This is the complete Burnorian Solution in one file.
+
+## License & Protection
+- **Free for everyone** to use, test, experiment, modify, and share (non-commercial, research, education, personal use).
+- **Commercial use requires a paid license** from Burnor.  
+  If you want to use this in any product, service, or for profit, contact me first.
+
+See the LICENSE file for full legal details.
+
+## How to run
+```bash
+pip install numpy scipy
+python burnorian.py
+
