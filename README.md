@@ -1,4 +1,4 @@
-# Burnorian Framework — Named by Burnor
+# Burnorian Framework — Named after the Author, Christopher R. Burnor
 
 **For humanity’s sake.**  
 Multi-planetary • Simulation mastery • Controlled time travel • **We become the UAP.**
